@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/3_Dot Product/3_DotProduct.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
